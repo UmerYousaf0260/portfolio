@@ -6,6 +6,7 @@ const skillsData = {
     "CSS3",
     "JavaScript",
     "React JS",
+    "Next Js",
     "Tailwind CSS",
     "SASS",
     "Material UI",
@@ -15,7 +16,7 @@ const skillsData = {
   datasets: [
     {
       backgroundColor: "rgba(199, 0, 57, 0.2)",
-      data: [90, 85, 80, 75, 85, 80, 85, 75, 70],
+      data: [90, 85, 80, 75, 75, 85, 80, 85, 75, 70],
       borderColor: "rgba(199, 0, 57, 1)",
       pointBackgroundColor: "rgba(199, 0, 57, 1)",
       pointRadius: 5,
